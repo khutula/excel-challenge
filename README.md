@@ -14,6 +14,7 @@ Base Analysis
 
 
 Bonus Analysis
+
 In this case, for both the successful and unsuccessful campaigns, the median is a more meaningful summarization of the data than the mean. The mean is extremely susceptible to significant outliers in either direction. Given the significant difference in these values, particularly for the successful campaigns, we can tell that the large number of backers outliers caused a deceptive shift upwards in the mean value.
 
 There is significantly more variation in the number of backers for successful campaigns than for unsuccessful campaigns, as indicated by the higher variance and standard deviation values. This makes sense because, as a general rule, successful campaigns are going to tend to have higher numbers of backers (as represented by the higher maximum, median, and mean values) and this data set even includes a successful campaign that was only backed by one person (as represented by the minimum). Because successful campaigns have a higher range (26456 versus 1293), the variation in the data is bound to be higher.
