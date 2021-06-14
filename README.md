@@ -4,8 +4,11 @@ GT Bootcamp Excel Homework: Kickstart My Chart
 
 Base Analysis
 1. Using only the provided data, we can conclude that:
+
     a.  The music category is disproportionately more likely to experience a successful campaign (77% vs the population’s 53%).
+
     b. Within the music category, each sub-category has greater than 87% success rate with the exception of faith, jazz, and world music, which all have 0% success rates.
+    
     c. Campaigns initiated in February, April, and May are more likely to experience a successful campaign as well (roughly 60% each vs the population’s 53%).
 
 2. The dataset is only a sample of roughly 4,000 projects and the total population of projects on Kickstarter exceeds 300,000. There could be bias inherent in the way these 4,000 projects were selected for analysis, so the sample may not be properly representative of the whole. More specifically, the overall success rate of our selected projects is over 53%, whereas the success rate in the problem statement is estimated around 33%. This demonstrates the potential bias in the dataset sample selected. Additionally, the majority of this data is collected from 2014 to 2016. Shifts in political and social landscapes over the last five years could mean that success rates by category and sub-category have significantly changed. We may not have current enough data to extrapolate conclusions into today’s landscape.
